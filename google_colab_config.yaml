@@ -1,0 +1,23 @@
+path: '/content/gdrive/My Drive/Final_dataset'
+train: images/train
+val: images/train
+
+
+names:
+  0: wall
+  1: floor
+  2: cylinder
+  3: stove
+  4: cupboard
+  5: table
+  6: washing machine
+  7: fan
+  8: air cooler
+  9: air conditioner
+  10: toilet
+  11: window
+  12: door
+  13: sink
+  14: bed
+  15: chair
+  16: stairs
