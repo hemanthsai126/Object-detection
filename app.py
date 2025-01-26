@@ -16,7 +16,6 @@ video_files = [
     'v7.mp4',
     'v8.mp4',
     'v9.mp4',
-    'v10.mp4',
     'v11.mp4'
 ]
 
