@@ -3,7 +3,7 @@ import streamlit as st
 
 # Title of the web app
 st.title("Hello Guys")
-st.write("This page showcases my work samples on object detection.")
+st.write("This page showcases my work samples on Custom object detection.")
 
 # List of video file paths
 video_files = [
