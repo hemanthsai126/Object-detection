@@ -7,17 +7,17 @@ st.write("This page showcases my work samples on object detection.")
 
 # List of video file paths
 video_files = [
-    '/Users/hemanthsai/Downloads/Output samples/v1.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v2.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v3.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v4.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v5.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v6.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v7.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v8.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v9.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v10.mp4',
-    '/Users/hemanthsai/Downloads/Output samples/v11.mp4'
+    'v1.mp4',
+    'v2.mp4',
+    'v3.mp4',
+    'v4.mp4',
+    'v5.mp4',
+    'v6.mp4',
+    'v7.mp4',
+    'v8.mp4',
+    'v9.mp4',
+    'v10.mp4',
+    'v11.mp4'
 ]
 
 # Display all videos
